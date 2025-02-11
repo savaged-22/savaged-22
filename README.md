@@ -45,3 +45,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/savaged-22/savaged-22/output/snake.svg" alt="Snake animation" />
+
+###
