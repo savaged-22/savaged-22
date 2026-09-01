@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="[https://i.gifer.com/ZWdx.gif](https://i.gifer.com/NvO.gif)" alt="Banner" width="100%" />
+<img src="https://i.gifer.com/NvO.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 👋 Hi, I'm Savaged-22
